@@ -3,7 +3,7 @@
  * main - entry point into the program
  *
  * Description - the printf function prints the string
- * Return : 0
+ * Return: 0
  */
 int main(void)
 {
