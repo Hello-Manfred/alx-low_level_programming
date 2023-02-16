@@ -2,7 +2,7 @@
 /**
  * main - entry point into the program
  *
- * Description - through the main function, the printf function prints the string
+ * Description - the printf function prints the string
  * Return : 0
  */
 int main(void)
