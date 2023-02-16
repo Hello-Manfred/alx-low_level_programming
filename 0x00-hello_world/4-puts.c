@@ -3,7 +3,7 @@
  *main - entry into the program 
  *
  *description - through the main function, the put function prints the message
- *  Return: 0
+ * Return: 0
  */
 int main(void)
 {
