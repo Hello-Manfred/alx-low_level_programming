@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main - entry into the program
  *
  * Description: through te main function, the put function prints the message
